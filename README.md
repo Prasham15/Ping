@@ -16,58 +16,62 @@ A simple Python-based terminal chat application using sockets. This project incl
 ```bash
 git clone https://github.com/Prasham15/chat.git
 cd chat
-2. Configure Environment
+```
+
+### 2. Configure Environment
+
 Copy .env.example to .env and edit it as needed:
-
-bash
-Copy
-Edit
+```
 cp .env.example .env
-3. Install Requirements (if any)
+```
+
+### 3. Install Requirements (if any)
+
+```
 If you use additional libraries, install them:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
-4. Run the Server
-bash
-Copy
-Edit
-python server.py
-5. Run the Client
-Open a new terminal window:
+```
 
-bash
-Copy
-Edit
+### 4. Run the Server
+
+```
+python server.py
+```
+
+### 5. Run the Client
+
+```
+Open a new terminal window:
 python client.py
-🧪 Example
-arduino
-Copy
-Edit
+```
+
+### 🧪 Example
+
+```
 [Client 1] > Hello!
 [Client 2] > Hi there! How are you?
-📁 File Structure
-bash
-Copy
-Edit
+```
+
+### 📁 File Structure
+
+```
 chat/
 ├── client.py        # Chat client code
 ├── server.py        # Chat server code
 ├── .env             # Environment variables
 ├── .env.example     # Sample environment config
 └── .gitignore       # Git ignored files
-🔐 Security Notes
-This is for local or LAN use only. Do not expose to the public internet without encryption and authentication mechanisms.
+```
 
+### 🔐 Security Notes
+
+This is for local or LAN use only. Do not expose to the public internet without encryption and authentication mechanisms.
 Add user authentication and encrypted communication (e.g., TLS) for production use.
 
-📌 Future Enhancements
+### 📌 Future Enhancements
+
  GUI using Tkinter or PyQt
-
  TLS encryption
-
  Chat history logging
 
  User authentication
