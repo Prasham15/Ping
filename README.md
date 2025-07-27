@@ -70,12 +70,12 @@ Add user authentication and encrypted communication (e.g., TLS) for production u
 
 ### 📌 Future Enhancements
 
- GUI using Tkinter or PyQt
- TLS encryption
- Chat history logging
+- GUI using Tkinter or PyQt
+- TLS encryption
+- Chat history logging
+- User authentication
 
- User authentication
+### 👨‍💻 Author
 
-👨‍💻 Author
-Prasham Sandeep Shah
+Prasham Shah
 GitHub: Prasham15
