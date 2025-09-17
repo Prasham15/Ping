@@ -1,14 +1,23 @@
 # Ping Chat App
 
 A simple Python chat application with **server** and **client** using `socketio` and `Tkinter`.
-
+The client is a Desktop Application
 ---
+
+
+## 📜 Notes
+
+First create .env file and replace <your_db_url> with your mongodb url.
+(It should have 3 collections: users, groups, messages)
+Make sure the server is running before starting the client.
+Dependencies are listed in requirements.txt.
+
 
 ## 🚀 Setup
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Ping.git
+git clone https://github.com/prasham15/Ping.git
 cd Ping
 ```
 
@@ -32,7 +41,7 @@ pip install -r requirements.txt
 ```
 python server.py
 ```
-### 2. Start the client (in another terminal)
+### 2. Start the client (in another terminal) (from same folder)
 ```
 python client.py
 ```
