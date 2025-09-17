@@ -1,16 +1,22 @@
-# Ping Chat App
+## Ping (Chat Application)
 
-A simple Python chat application with **server** and **client** using `socketio` and `Tkinter`.
-The client is a Desktop Application
+#### A simple Python chat application with **server** and **client** using `socketio` and `Tkinter`.
+#### The client is a Desktop Application
 ---
 
+## ⚙️ Features
+
+#### Chat with any friend in Real Time
+#### Friend and Group management
+#### Real Time messages management (Online status, New messages number)
+#### Register and Login service
 
 ## 📜 Notes
 
-First create .env file and replace <your_db_url> with your mongodb url.
-(It should have 3 collections: users, groups, messages)
-Make sure the server is running before starting the client.
-Dependencies are listed in requirements.txt.
+#### First create .env file and replace <your_db_url> with your mongodb url.
+#### (It should have 3 collections: users, groups, messages)
+#### Make sure the server is running before starting the client.
+#### Dependencies are listed in requirements.txt.
 
 
 ## 🚀 Setup
