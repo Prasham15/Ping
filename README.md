@@ -8,7 +8,7 @@
 
 #### Chat with any friend in Real Time
 #### Friend and Group management
-#### Real Time messages management (Online status, New messages number)
+#### Real Time messages management (Online status, Unread messages)
 #### Register and Login service
 
 ## 📜 Notes
