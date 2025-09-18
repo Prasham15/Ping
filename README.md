@@ -1,15 +1,22 @@
 ## Ping (Chat Application)
 
-#### A simple Python chat application with **server** and **client** using `socketio` and `Tkinter`.
-#### The client is a Desktop Application
+1. #### A simple Python chat application with **server** and **client** using `socketio` and `Tkinter`.
+2. #### The client is a Desktop Application
 ---
 
-## ⚙️ Features
+## ⚙️ Current Features
 
-#### Chat with any friend in Real Time
-#### Friend and Group management
-#### Real Time messages management (Online status, Unread messages)
-#### Register and Login service
+1. #### Chat with any friend in Real Time
+2. #### Friend and Group management
+3. #### Real Time messages management (Online status, Unread messages)
+4. #### Register and Login service
+
+## Future Features
+
+1. #### Audio Calling
+2. #### AI Support
+
+
 
 ## 📜 Notes
 
