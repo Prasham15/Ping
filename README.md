@@ -13,17 +13,17 @@
 
 ## Future Features
 
-#### 1. Audio Calling
+#### 1. Images and Video
 #### 2. AI Support
 
 
 
 ## 📜 Notes
 
-#### First create .env file and replace <your_db_url> with your mongodb url.
-#### (It should have 3 collections: users, groups, messages)
-#### Make sure the server is running before starting the client.
-#### Dependencies are listed in requirements.txt.
+#### 1. First create .env file and replace <your_db_url> with your mongodb url.
+#### 2. (It should have 3 collections: users, groups, messages)
+#### 3. Make sure the server is running before starting the client.
+#### 4. Dependencies are listed in requirements.txt.
 
 
 ## 🚀 Setup
